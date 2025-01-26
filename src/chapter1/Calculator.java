@@ -1,6 +1,8 @@
+package chapter1;
+
 public class Calculator {
     public static void main(String[] args) {
-        System.out.println("Calculator class started");
+        System.out.println("chapter1.Calculator class started");
         Calculator calc = new Calculator();
         int a = 10;
         int b = 5;

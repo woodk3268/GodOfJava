@@ -1,3 +1,5 @@
+package chapter4;
+
 public class PrimitiveTypes {
     int intDefault1;
     public void defaultValues() {
