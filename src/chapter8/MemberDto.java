@@ -23,4 +23,8 @@ public class MemberDto {
         MemberDto dto = new MemberDto();
         return dto;
     }
+
+    public String toString() {
+        return name + ", " + phone + ", " + email;
+    }
 }

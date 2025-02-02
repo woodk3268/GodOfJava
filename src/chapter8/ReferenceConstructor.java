@@ -11,5 +11,6 @@ public class ReferenceConstructor {
         MemberDto dto2 = new MemberDto("Sangmin");
         MemberDto dto3 = new MemberDto("Sangmin", "010-1234-5678");
         MemberDto dto4 = new MemberDto("Sangmin", "010-1234-5678", "god@godofjava.com");
+        System.out.println(dto4);
     }
 }
